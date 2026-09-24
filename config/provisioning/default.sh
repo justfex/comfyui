@@ -65,7 +65,7 @@ CLIP_VISION_MODELS=(
 UNET_MODELS=(     
 
   
-
+"https://huggingface.co/LHQAQ-Li/wan2.1_14B_SCAIL_2_fp16_comfy_nvfp4/resolve/main/wan2.1_14B_SCAIL_2_fp16_comfy_nvfp4.safetensors?download=true"
 
 
 
